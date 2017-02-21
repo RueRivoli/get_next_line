@@ -6,7 +6,7 @@
 /*   By: fgallois <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2017/02/06 15:15:33 by fgallois          #+#    #+#             */
-/*   Updated: 2017/02/20 17:04:14 by fgallois         ###   ########.fr       */
+/*   Updated: 2017/02/21 16:33:26 by fgallois         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -22,7 +22,7 @@
 # include <unistd.h>
 # include <stdio.h>
 
-# define BUFF_SIZE 1
+# define BUFF_SIZE 10
 
 typedef struct		s_line
 {
